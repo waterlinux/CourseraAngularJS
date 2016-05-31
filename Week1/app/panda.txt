@@ -1,0 +1,12 @@
+            panda=
+                      {   name:'black and white',
+                          image:'images/panda.png',
+                          category: 'pets',
+                          label:'Cute',
+                          price:'Are you kidding me?',
+                          birth date:'11/05/2010',
+                          description:'i am a cutie to the family',
+                          comment:''
+                                      
+                      }
+                      
